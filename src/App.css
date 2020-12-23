@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.image {
+  object-fit: contain;
+  max-width: 40%;
+  max-height: 40%;
+  min-width: 200px;
+  min-height: 100px;
+  width: auto;
+  height: auto;
+  align-items: center;
+}
